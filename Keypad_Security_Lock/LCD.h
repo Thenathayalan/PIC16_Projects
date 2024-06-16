@@ -1,3 +1,9 @@
+/*
+ * File:   LCD.h
+ * Author: thenathayalan
+ *
+ * Created on May 13, 2024, 8:20 PM
+ */
 
 #define _XTAL_FREQ 20000000
 #define RS RD2
